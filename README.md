@@ -1,8 +1,7 @@
-- Hey, I'm me... Yeah
-- 🌌 I love Astronomy and Science in general
-- 🥖 I'm french
-- ⛏ My favorite game in all my life is Minecraft
-- And... That's all.
+Just a fellow science and game lover (kind of).
+- I love Math, and Science in general.
+- I love pedagogy and teaching (I plan to be a teacher one day).
+- I like playing certain video games.
 
 <!---
 Luckipro/Luckipro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
